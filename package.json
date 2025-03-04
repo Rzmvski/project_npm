@@ -1,0 +1,16 @@
+{
+  "name": "project_npm",
+  "version": "1.0.0",
+  "description": "this is my first project on node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rzmvski/project_npm.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "otus"
+  ],
+  "author": "Vic Razumovski",
+  "license": "ISC"
+}
